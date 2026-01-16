@@ -1,4 +1,4 @@
-# Sebastián Acuña Aravena
+# [Sebastián Acuña Aravena](https://github.com/smacuna/s)
 
 ## Proyectos
 Proyectos personales que iré publicando por acá. Aún en progreso.
